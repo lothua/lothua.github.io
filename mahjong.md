@@ -1,0 +1,2 @@
+#risorse
+proma tipo
